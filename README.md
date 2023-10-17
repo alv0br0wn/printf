@@ -1,0 +1,3 @@
+# printf
+TEAM WORK
+ALX WORK ON C IS FUN
